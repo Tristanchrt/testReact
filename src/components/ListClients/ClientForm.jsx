@@ -27,7 +27,7 @@ const ClientForm = (props) => {
           type="text"
           placeholder="Ajouter un client"
         />
-        <button>Confirmer</button>
+        <button>Confirmerr</button>
       </form>
     );
 }
